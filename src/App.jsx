@@ -1,12 +1,7 @@
-import Product from "./Components/Product"
-
+import HandleProduct from "./Components/HandleProduct"
 function App() {
-
-
      return (
-
-        <Product/>
+          <HandleProduct />
      )
 }
-
 export default App
